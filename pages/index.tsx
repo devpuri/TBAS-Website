@@ -4,7 +4,7 @@ import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 import React from 'react';
 import Navbar from './navbar.js';
-import HomePage from './Homepage';
+import HomePage from './homepage.js';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
