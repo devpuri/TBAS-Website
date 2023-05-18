@@ -25,7 +25,7 @@ const HomePage = () => {
           <h1 className={styles.title}>The Best Art School</h1>
 
           <p style={{marginTop:"4rem", width:"400px", lineHeight:"1.5em", fontSize:"1.1em"}}> 
-          ~ Embark on a Captivating Journey through the Vibrant Palette of Indian and Modern Art: Unleashing Boundless Creativity and Cultural Expressions"
+          ~ Embark on a Captivating Journey through the Vibrant Palette of Indian and Modern Art: Unleashing Boundless Creativity and Cultural Expressions
           </p> 
             <Image className={styles.headingImage}
             src="/homeImage.jpg"
@@ -67,7 +67,7 @@ const HomePage = () => {
           <div className={styles.textContainer}>
             <h2>About Me</h2>
             <p style={{fontSize:"18px", marginTop:"2rem", fontWeight:"lighter", lineHeight:"1.2em"}}>
-            Welcome to my artistic world! I'm Urvashi Saini, a passionate artist hailing from the vibrant land of India. With a brush in hand and boundless creativity in my soul, I aim to transport you into a realm of beauty, culture, and emotions through my artwork.
+            Welcome to my artistic world! I&apos;m Urvashi Saini, a passionate artist hailing from the vibrant land of India. With a brush in hand and boundless creativity in my soul, I aim to transport you into a realm of beauty, culture, and emotions through my artwork.
 
 Drawing inspiration from the rich heritage and diverse landscapes of India, my creations are a celebration of colors, traditions, and the human experience. Each stroke on the canvas tells a story, capturing the essence of life, love, and spirituality. From mesmerizing portraits to captivating landscapes, my art aims to evoke deep emotions and leave an indelible impression on your heart.  
             </p>

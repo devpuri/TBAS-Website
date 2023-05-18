@@ -14,7 +14,7 @@ const Navbar = () => {
 
         <li className={styles.navbar__item}>
           <Link href="./whats_new">
-            <p className={styles.navbar__link}>What's On?</p>
+            <p className={styles.navbar__link}>What&apos;s On?</p>
           </Link>
         </li>
 
