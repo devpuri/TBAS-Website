@@ -13,7 +13,7 @@ const Navbar = () => {
         </li>
 
         <li className={styles.navbar__item}>
-          <Link href="/">
+          <Link href="./whats_new">
             <p className={styles.navbar__link}>What's On?</p>
           </Link>
         </li>
@@ -23,11 +23,11 @@ const Navbar = () => {
             <p className={styles.navbar__link}>About</p>
           </Link>
         </li>
-        <li className={styles.navbar__item}>
+        {/* <li className={styles.navbar__item}>
           <Link href="/contact">
             <p className={styles.navbar__link}>Contact</p>
           </Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );

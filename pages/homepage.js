@@ -8,10 +8,14 @@ import { MDBIcon, MDBContainer } from 'mdbreact';
 const HomePage = () => {
 
   const artworks = [
-    { id: 1, title: 'Awakening Bliss', image: '/artwork3.jpg' },
-    { id: 2, title: 'Blooming Serenity', image: '/artwork2.jpg' },
-    { id: 3, title: 'Nature\'s Palette', image: '/artwork1.jpg' },
-    { id: 3, title: 'Divine Union: Radha Krishna', image: '/artwork4.jpg' },
+    { id: 1, title: 'Awakening Bliss', image: '/artwork1.jpg' },
+    { id: 2, title: 'Mystic Mane', image: '/artwork2.jpg' },
+    { id: 3, title: 'Dancing Colors', image: '/artwork3.jpg' },
+    { id: 4, title: 'Transcendent Love', image: '/artwork4.jpg' },
+    { id: 5, title: 'Blooming Serenity', image: '/artwork5.jpg' },
+    { id: 6, title: 'Divine Union: Radha Krishna', image: '/artwork6.jpg' },
+    { id: 7, title: 'Nature\'s Palette', image: '/artwork7.jpg' },
+    { id: 8, title: 'Chromatic Foliage', image: '/artwork8.jpg' },
   ];
 
   return (
@@ -82,13 +86,13 @@ Drawing inspiration from the rich heritage and diverse landscapes of India, my c
           <p className={styles.footerHead}>
             Follow me on Social Media:</p>
           <div className={styles.socialIcons}>
-            <a href="#" className={styles.icon}>
+            <a href="https://www.facebook.com/TheBestARTSchool" className={styles.icon}>
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="#" className={styles.icon}>
+            <a href="https://www.facebook.com/TheBestARTSchool" className={styles.icon}>
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="#" className={styles.icon}>
+            <a href="https://www.instagram.com/thebestartschool_/" className={styles.icon}>
               <i className="fab fa-instagram"></i>
             </a>
           </div>

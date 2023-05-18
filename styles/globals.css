@@ -70,3 +70,8 @@ a {
 }
 
 
+@media (max-width: 1007px) {
+  body {
+    display: none;
+  }
+}
